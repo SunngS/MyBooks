@@ -1,0 +1,6 @@
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\classes\debug
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fbfface87a2e327a3719eb32fdf25c8523abf75c.jar
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ce2df9178a81b02adb3b06a36360de7c1e200d39.jar
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\pre-dexed\debug\classes-aa9dec1dd59d6f3566c026eb421339cb49530241.jar
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\pre-dexed\debug\classes-bd7b981458bf0ac2f9cdd2bf13e775fe08568c4a.jar
+C:\Users\v0cn115\AndroidStudioProjects\MyBooks\app\build\intermediates\pre-dexed\debug\classes-2192d33c8bc09bdd579a46f13709a7f5d741b33e.jar

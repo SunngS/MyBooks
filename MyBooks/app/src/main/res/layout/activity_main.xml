@@ -1,0 +1,26 @@
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+    android:weightSum="1">
+  <TextView
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/user_alert"
+      android:layout_weight="0.07" />
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/login_button"
+      android:onClick="GoToLoginPage"
+      android:text="@string/login_button_title"/>
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/register_button"
+      android:onClick="GoToRegisterPage"
+      android:text="@string/register_button_title" />
+
+</LinearLayout>
